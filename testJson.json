@@ -4,7 +4,7 @@
         "appColors": {
             "primaryText": "#000000",
             "secondaryText": "#5A6265",
-            "brandPrimary": "#566DB5",
+            "brandPrimary": "#FF0000",
             "brandPrimaryVariant": "#005DFF",
             "brandSecondary": "#60AFDD",
             "brandSecondaryVariant": "#B4D9EF",
@@ -104,7 +104,7 @@
         "appColors": {
             "primaryText": "#FFFFFF",
             "secondaryText": "#BBBBBB",
-            "brandPrimary": "#566DB5",
+            "brandPrimary": "#00FF00",
             "brandPrimaryVariant": "#005DFF",
             "brandSecondary": "#60AFDD",
             "brandSecondaryVariant": "#B4D9EF",
