@@ -1,0 +1,202 @@
+{
+    "lightTheme": {
+        "lightMode": true,
+        "appColors": {
+            "primaryText": "#000000",
+            "secondaryText": "#5A6265",
+            "brandPrimary": "#566DB5",
+            "brandPrimaryVariant": "#005DFF",
+            "brandSecondary": "#60AFDD",
+            "brandSecondaryVariant": "#B4D9EF",
+            "background": "#FFFFFF",
+            "surface": "#FFFFFF",
+            "errorRed": "#D54141",
+            "onPrimary": "#FFFFFF",
+            "onSecondary": "#000000",
+            "onSurface": "#000000",
+            "onBackground": "#000000",
+            "onError": "#FFFFFF",
+            "textLinkBlue": "#566DB5",
+            "meetingPurple": "#5762BF",
+            "onMeetingPurple": "#FFFFFF",
+            "warningAmber": "#F9C246",
+            "successGreen": "#63BC5D",
+            "backgroundVariant1": "#E6E7E9",
+            "backgroundVariant2": "#005DFF",
+            "disabled": "#AFB7C7",
+            "backgroundGradientTop": "#F8FBFF",
+            "backgroundGradientBottom": "#B4D9EF",
+            "dividerColor": "#AFB7C7"
+        },
+        "sideBarWidth": 86,
+        "widgetBorderRadius": 0,
+        "googleFontName": null,
+        "textTheme": {
+            "headline1": {
+                "color": "#000000",
+                "fontWeight": "w700",
+                "fontSize": 48
+            },
+            "headline2": {
+                "color": "#000000",
+                "fontWeight": "w700",
+                "fontSize": 32
+            },
+            "headline3": {
+                "color": "#000000",
+                "fontWeight": "w700",
+                "fontSize": 28
+            },
+            "headline4": {
+                "color": "#000000",
+                "fontWeight": "w700",
+                "fontSize": 24
+            },
+            "headline5": {
+                "color": "#000000",
+                "fontWeight": "w700",
+                "fontSize": 20
+            },
+            "headline6": {
+                "color": "#000000",
+                "fontWeight": "w700",
+                "fontSize": 18
+            },
+            "subtitle1": {
+                "color": "#000000",
+                "fontWeight": "w600",
+                "fontSize": 18
+            },
+            "subtitle2": {
+                "color": "#000000",
+                "fontWeight": "w600",
+                "fontSize": 14
+            },
+            "bodyText1": {
+                "color": "#000000",
+                "fontWeight": "w700",
+                "fontSize": 16
+            },
+            "bodyText2": {
+                "color": "#000000",
+                "fontWeight": "w400",
+                "fontSize": 16
+            },
+            "caption": {
+                "color": "#000000",
+                "fontWeight": "w500",
+                "fontSize": 14
+            },
+            "button": {
+                "color": "#000000",
+                "fontWeight": "w600",
+                "fontSize": 20
+            },
+            "overline": {
+                "color": "#000000",
+                "fontWeight": "w700",
+                "fontSize": 14
+            }
+        }
+    },
+    "darkTheme": {
+        "lightMode": false,
+        "appColors": {
+            "primaryText": "#FFFFFF",
+            "secondaryText": "#BBBBBB",
+            "brandPrimary": "#566DB5",
+            "brandPrimaryVariant": "#005DFF",
+            "brandSecondary": "#60AFDD",
+            "brandSecondaryVariant": "#B4D9EF",
+            "background": "#000000",
+            "surface": "#252525",
+            "errorRed": "#D1262A",
+            "onPrimary": "#FFFFFF",
+            "onSecondary": "#FFFFFF",
+            "onSurface": "#FFFFFF",
+            "onBackground": "#FFFFFF",
+            "onError": "#FFFFFF",
+            "textLinkBlue": "#4A89EF",
+            "meetingPurple": "#5762BF",
+            "onMeetingPurple": "#FFFFFF",
+            "warningAmber": "#F9C246",
+            "successGreen": "#7ABA68",
+            "disabled": "#AFB7C7",
+            "backgroundVariant1": "#E6E7E9",
+            "backgroundVariant2": "#666666",
+            "backgroundGradientTop": "#000000",
+            "backgroundGradientBottom": "#000000",
+            "dividerColor": "#000000"
+        },
+        "sideBarWidth": 86,
+        "widgetBorderRadius": 0,
+        "googleFontName": null,
+        "textTheme": {
+            "headline1": {
+                "color": "#FFFFFF",
+                "fontWeight": "w700",
+                "fontSize": 48
+            },
+            "headline2": {
+                "color": "#FFFFFF",
+                "fontWeight": "w700",
+                "fontSize": 32
+            },
+            "headline3": {
+                "color": "#FFFFFF",
+                "fontWeight": "w700",
+                "fontSize": 28
+            },
+            "headline4": {
+                "color": "#FFFFFF",
+                "fontWeight": "w700",
+                "fontSize": 24
+            },
+            "headline5": {
+                "color": "#FFFFFF",
+                "fontWeight": "w700",
+                "fontSize": 20
+            },
+            "headline6": {
+                "color": "#FFFFFF",
+                "fontWeight": "w700",
+                "fontSize": 18
+            },
+            "subtitle1": {
+                "color": "#FFFFFF",
+                "fontWeight": "w600",
+                "fontSize": 18
+            },
+            "subtitle2": {
+                "color": "#FFFFFF",
+                "fontWeight": "w600",
+                "fontSize": 14
+            },
+            "bodyText1": {
+                "color": "#FFFFFF",
+                "fontWeight": "w700",
+                "fontSize": 16
+            },
+            "bodyText2": {
+                "color": "#FFFFFF",
+                "fontWeight": "w400",
+                "fontSize": 16
+            },
+            "caption": {
+                "color": "#FFFFFF",
+                "fontWeight": "w500",
+                "fontSize": 14
+            },
+            "button": {
+                "color": "#FFFFFF",
+                "fontWeight": "w600",
+                "fontSize": 20
+            },
+            "overline": {
+                "color": "#FFFFFF",
+                "fontWeight": "w700",
+                "fontSize": 14
+            }
+        }
+    }
+}
